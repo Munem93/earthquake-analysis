@@ -25,13 +25,13 @@ Demonstrate reproducible data analysis using Python
 Dataset: 
 The dataset (all_month.csv) contains 22 columns and 8,886 rows.
 Key fields include:
-time — timestamp of the event
-latitude, longitude — location
-depth — depth in km
-mag — magnitude
-magType — magnitude scale used
-place — nearest location
-type — event type (earthquake, quarry blast, explosion, ice quake)
+time, timestamp of the event
+latitude, longitude , location
+depth , depth in km
+mag , magnitude
+magType , magnitude scale used
+place , nearest location
+type , event type (earthquake, quarry blast, explosion, ice quake)
 horizontalError, depthError, magError — measurement uncertainties
 
 Example from the dataset:
